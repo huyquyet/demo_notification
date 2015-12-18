@@ -1,25 +1,17 @@
-swampdragon-django-notifications-demo
-=====================================
+- chat_example
+- install requirements.txt
 
-Example code for implementing Django real-time notifications using SwampDragon.
+pip install -r requirements.txt
 
-To accompany the blog post at http://wildfish.com/blog/2014/12/09/swampdragon-real-time-django-notifications/
+- run server
 
+python server.py
 
-Quickstart
-----------
+- run server django
 
-    pip install -r requirements.txt
-   
-then:
+python manage.py runserver
 
-    python manage.py runserver
-    ptyhon manage.py runsd
+- acccount:
 
-
-Admin Credentials
------------------
-
-    user: admin
-    pass: admin
-# demo_notification
+user: admin
+pass: admin
