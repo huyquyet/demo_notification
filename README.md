@@ -14,4 +14,5 @@ python manage.py runserver
 - acccount:
 
 user: admin
+
 pass: admin
